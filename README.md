@@ -1,7 +1,7 @@
 # 👩🏻‍💻 DIGITAL LITERACY [CSE0001] 👩🏻‍💻
 
-**Name :** Shamique Khan  
-**Reg No. :** 25BAI10187  
+**Name :** Aasir Jaffer  
+**Reg No. :** 25BAI10844  
 **University :** VIT Bhopal University
 **Branch :** B.Tech. CSE AI ML  
 **Year :** 2025-29
@@ -46,13 +46,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSfxcMV1pW5UwaiuK6bvAkl1JFsotcfDpGWeUNWc
 
 **👩🏻‍💻 Github :**
 
-https://github.com/shamiquekhan
+[https://github.com/](https://github.com/aasirjaffer13)
 
 **💡 Linkedin :**
 
-www.linkedin.com/in/shamique-khan
+https://www.linkedin.com/in/aasir-jaffer-88a826366
 
 **⚙️ Kaggle :**
 
-[https://www.kaggle.com/](https://www.kaggle.com/shamiquekhan)
+[https://www.kaggle.com/](https://www.kaggle.com/aasirjaffer)
 # # digital-literacy-project
